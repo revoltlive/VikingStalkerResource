@@ -1,0 +1,1 @@
+# VikingStalkerResource\n
